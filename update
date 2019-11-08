@@ -1,8 +1,8 @@
 {
   "app": {
-    "version": "7.3.5-2019092201-ianmacd",
+    "version": "7.3.4-2019061101",
     "versionCode": "2019092201",
-    "link": "https://github.com/ianmacd/MagiskBuilds/raw/master/MagiskManager-v7.3.5-2019092201-ianmacd.apk",
+    "link": "https://raw.githubusercontent.com/avtar202/magisk/master/MagiskManager-v7.3.4-2019061101.apk",
     "note": ""
   },
   "magisk": {
